@@ -22,4 +22,7 @@ Write your code and test it out manually by running `ruby silly_string.rb` in th
 6. Now let's capitalize just the first letter of the sentence `"i really like programming"`
 
 7. Let's take the string `"Astounding aardvarks, arguably an ancient animal, always ate apples and acorns and artichokes all around Athens, amazing!"`. We want to use a method to switch all `A` for `O`, as well as all `a` for `o`. 
+<<<<<<< HEAD
 # AdTopics2
+=======
+>>>>>>> 694de7be4cf6216ba49038797feb6a9ba49faae4
